@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/cq5ta2ci4pnodty3?svg=true)](https://ci.appveyor.com/project/A-Fierce/http-frontend)
